@@ -4,8 +4,8 @@
 
 ## Contributors
 
-- **Itamar Shapira**
 - **Ofir Roditi**
+- **Itamar Shapira**
 
 ---
 
