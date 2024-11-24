@@ -18,7 +18,7 @@ This repository contains a collection of Java programs developed during coursewo
 - **`Minimum_Insertions_to_Make_String_Palindrome.java`**:
 
   - **Purpose**: Calculates the minimum number of insertions required to make a string a palindrome.
-  - **Key Algorithm**: Longest Common Subsequence (LCS) using Dynamic Programming.
+  - `**Key Algorithm**`: **Longest Common Subsequence (LCS) using Dynamic Programming.**
   - **Highlights**:
     - Compares the original string with its reversed version.
     - Uses the difference between the string length and the LCS to calculate the result.
@@ -29,7 +29,7 @@ This repository contains a collection of Java programs developed during coursewo
 
 - **`TilingDominoes.java`**:
   - **Purpose**: Counts the number of ways to tile a `2 x n` board using `1 x 2` dominoes.
-  - **Key Algorithm**: Dynamic Programming with Bitmasking to represent column states.
+  - `**Key Algorithm**`: **Dynamic Programming with Bitmasking to represent column states.**
   - **Highlights**:
     - Computes the number of valid tilings recursively.
     - Uses binary states to represent column configurations.
